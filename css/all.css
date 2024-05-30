@@ -1,0 +1,54 @@
+body {
+  background-color: #FEEFAD;
+}
+
+.title {
+  font-family: Comfortaa;
+  font-weight: 700;
+  font-size: 60px;
+  padding-top: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 650px 350px;
+}
+
+.photo {
+  display: grid;
+  grid-template-columns: 300px 300px;
+  gap: 25px;
+}
+
+.descr {
+  display: grid;
+  grid-template-columns: 300px 300px;
+  gap: 55px;
+}
+
+.title__sub {
+  margin-bottom: 15px;
+}
+
+.text__sub {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.pink {
+  color: #D10363;
+}
+
+.blue {
+  color: #003285;
+}
+
+.violet {
+  color: #098377;
+}
+
+.orange {
+  color: #FC4100;
+}
