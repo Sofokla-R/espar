@@ -18,5 +18,10 @@ body {
   gap: 15px;
 }
 
+.picture {
+  max-width: 600px;
+}
+
+
 
 
