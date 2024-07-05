@@ -15,28 +15,17 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  gap: 10px;
-  margin-bottom: 50px;
+  gap: 15px 25px;
+
 }
 
 .picture {
   max-width: 600px;
 }
 
-.photo2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 10px;
-  margin-bottom: 50px;
-}
-
-.photo3 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 10px;
-  margin-bottom: 50px;
+.descr {
+  font-weight: 700;
+  font-size: 23px;
 }
 
 
